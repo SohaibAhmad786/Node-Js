@@ -1,0 +1,1 @@
+Some text goes here and its create by writeFileSyncSome text goes here and its create by writeFileSync
